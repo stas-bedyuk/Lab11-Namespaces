@@ -1,0 +1,9 @@
+﻿  3 sem lab 11.cpp
+C:\Users\user\source\repos\3 sem lab 11\3 sem lab 11\3 sem lab 11.cpp(13,11): warning C4091: : пропускается слева от "Street", когда ни одна переменная не объявлена
+C:\Users\user\source\repos\3 sem lab 11\3 sem lab 11\3 sem lab 11.cpp(14,10): warning C4091: : пропускается слева от "House", когда ни одна переменная не объявлена
+C:\Users\user\source\repos\3 sem lab 11\3 sem lab 11\3 sem lab 11.cpp(15,12): warning C4091: : пропускается слева от "Address", когда ни одна переменная не объявлена
+C:\Users\user\source\repos\3 sem lab 11\3 sem lab 11\3 sem lab 11.cpp(16,11): warning C4091: : пропускается слева от "Person", когда ни одна переменная не объявлена
+C:\Users\user\source\repos\3 sem lab 11\3 sem lab 11\3 sem lab 11.cpp(17,11): warning C4091: : пропускается слева от "Parent", когда ни одна переменная не объявлена
+C:\Users\user\source\repos\3 sem lab 11\3 sem lab 11\3 sem lab 11.cpp(18,22): warning C4091: : пропускается слева от "Classroom_teacher", когда ни одна переменная не объявлена
+C:\Users\user\source\repos\3 sem lab 11\3 sem lab 11\3 sem lab 11.cpp(19,12): warning C4091: : пропускается слева от "Student", когда ни одна переменная не объявлена
+  3 sem lab 11.vcxproj -> C:\Users\user\source\repos\3 sem lab 11\Debug\3 sem lab 11.exe
